@@ -35,36 +35,29 @@ import Header from '../../Header.vue'
 
 
                             <p>
-                                Xin chào~~~~ <br> <br>
-                                Tớ là Thanh Vân, Thanh trong thanh khiết, Vân trong mây trời, gọi là Na cũng được~ Vịt
-                                cũng được
-                                ạ ^^~~~ <br><br>
-
-                                Thật ra tớ là cô gái rất thất thường, nhìn một chiếc lá rơi xuống tớ cũng có thể buồn cả
-                                ngày
-                                được. Nhìn dễ gần vậy đó nhưng tớ cực kì cực kì đơn độc, có những sở thích kỳ lạ **
-                                Bạn tớ bảo mong tớ bớt làm nũng lại, hehe. <br>
+                                Xin chào... <br> <br>
+                                Tớ là một cô gái có chút ngại ngùng, luôn mang trong mình sự dịu
+                                dàng và nhạy cảm. Đôi khi, tôi e dè trước những điều mới mẻ, nhưng
+                                cũng chính sự mong manh ấy khiến tôi trân trọng từng khoảnh khắc
+                                của cuộc sống. Tớ yêu những ngày bình yên, nơi có ánh nắng nhẹ
+                                nhàng và những cơn gió thoảng qua, mang theo bao ước mơ nhỏ bé.
+                                Dù có chút rụt rè, tôi vẫn luôn lạc quan và yêu đời. Tớ tin rằng mỗi
+                                ngày mới là một cơ hội để học hỏi, để yêu thương và để sống trọn vẹn
+                                với cảm xúc của mình. Những niềm vui giản đơn như một tách trà ấm, 
+                                một bản nhạc du dương hay một cuốn sách hay cũng đủ khiến tôi cảm
+                                thấy hạnh phúc.<br>
                                 <br>
-
-                                À, nói hơi nhiều nhỉ ^^ <br><br>
-
-                                Chỉ muốn nói là tớ dùng nơi này làm cung điện mây của mình vậy, ghi những điều tớ thấy
-                                hay
-                                , những người tớ yêu,
-                                những cuốn sách tớ đọc và những cảm nhận chuyến đi tớ đã đi qua. <br>
-                                <br>
-                                Dù mệt mỏi hay nản lòng, mong bạn hãy tìm đến mây để chúng chở đi những nặng nề trong
-                                bạn, theo
-                                gió, bay đi. <br><br>
-
-                                Có nhiều người yêu bạn , hơn là bạn đã tưởng đấy!
+                                Tớ không hoàn hảo, nhưng tôi luôn cố gắng là phiên bản tốt nhất của 
+                                chính mình. Tớ tin vào sự chân thành, vào những tình cảm xuất phát
+                                từ trái tim và luôn trân trọng những người bên cạnh. Dù cuộc sống có 
+                                nhiều thử thách, tôi vẫn giữ vững niềm tin rằng, chỉ cần có một tâm
+                                hồn rộng mở và một trái tim biết yêu thương, tôi sẽ luôn tìm thấy 
+                                những điều tươi đẹp trên hành trình của mình.
                             </p>
                         </div>
                     </div>
                 </div>
-                <!-- <div class="txt-note">
-                <span>Note: </span>blog của tớ là song ngữ nha, mong các cậu có thể vui vẻ khi tới nơi này...
-            </div> -->
+                
             </div>
         </div>
 
@@ -74,7 +67,7 @@ import Header from '../../Header.vue'
     <div class="connect">
         <div class="connect-el">
             <div>
-                Hello, I'm Thanh Van, Thanh is pure, Van is in the clouds. Hope when you come to my small town, you will
+                Hope when you come to my small town, you will
                 be yourself, cheerful and happy.
             </div> <br>
             <div class="connect-1">Connect: <br>
